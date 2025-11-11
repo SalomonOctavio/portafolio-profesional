@@ -7,4 +7,4 @@ Conecto negocio y TI con foco en proceso, UAT y adopción. Scrum/Kanban · Jira 
 - [**Módulo de Promociones (TELCO, 2015–2017)**](https://github.com/SalomonOctavio/modulo-promociones) — Reglas por eventos, UAT E2E, integraciones BSCS/CRM.
 - [**Activación Automática (TELCO, 2016–2017)**](https://github.com/SalomonOctavio/activacion-automatica) — SIMs sin pre-aprovisionamiento; activación dinámica al primer uso. 
 - [**Canal USSD (TELCO, 2016–2017)**](https://github.com/SalomonOctavio/canal-ussd) — Autogestión prepago vía *103#; saldo, número y bolsas; ~30% adopción sin campaña.
-
+- [**Frontend de Ventas (TELCO, 2011–2012)**](https://github.com/SalomonOctavio/frontend-ventas) — Venta postpago unificada en FrontEnd; TTGL bajo, integración POS/Siebel.
