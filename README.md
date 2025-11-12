@@ -9,3 +9,4 @@ Conecto negocio y TI con foco en proceso, UAT y adopción. Scrum/Kanban · Jira 
 - [**Canal USSD (TELCO, 2016–2017)**](https://github.com/SalomonOctavio/canal-ussd) — Autogestión prepago vía *103#; saldo, número y bolsas; ~30% adopción sin campaña.
 - [**Frontend de Ventas (TELCO, 2011–2012)**](https://github.com/SalomonOctavio/frontend-ventas) — Venta postpago unificada en FrontEnd; TTGL bajo, integración POS/Siebel.
 - [**Gestor B2B (TELCO, 2013–2014)**](https://github.com/SalomonOctavio/gestor-b2b) — Autogestión empresa: compra/asignación de bolsas, SLAs y trazabilidad; integración CRM/BSCS/OSB/PCRF.
+- [**Reportes en Línea (QlikView, 2013–2014)**](https://github.com/SalomonOctavio/reportes-en-linea-qlikview) — Dashboards en línea (Marketing/Comercial/Operaciones) con QVS/AccessPoint, Publisher y QVD/QVW.
