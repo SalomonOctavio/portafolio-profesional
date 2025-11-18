@@ -12,3 +12,4 @@ Conecto negocio y TI con foco en proceso, UAT y adopción. Scrum/Kanban · Jira 
 - [**Reportes en Línea (QlikView, 2013–2014)**](https://github.com/SalomonOctavio/reportes-en-linea-qlikview) — Dashboards en línea (Marketing/Comercial/Operaciones) con QVS/AccessPoint, Publisher y QVD/QVW.
 - [**Portal de Ofertas de Datos (WebPortal/ODP)**](https://github.com/SalomonOctavio/webportal-odp) — Autoservicio para consumo/saldo y suscripción de bolsas; integración OSB ↔ BSCS/ALU/PCRF.
 - [**Separación Q-Chat (TELCO, 2014)**](https://github.com/SalomonOctavio/separacion-qchat) — HPPTT de “core” a opcional: reglas por plan/equipo, masivo on/off y normalización; integración CRM/BSCS/OTA/HLR.
+- [**Trafico Intra-Grupo / al RUT (TELCO, 2014)**](https://github.com/SalomonOctavio/Trafico-intragrupo) — Llamadas $0 entre líneas del mismo RUT; sin consumo de bolsa; factura con costo 0; reportería y validadores. 
