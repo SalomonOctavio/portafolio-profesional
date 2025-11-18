@@ -11,3 +11,4 @@ Conecto negocio y TI con foco en proceso, UAT y adopción. Scrum/Kanban · Jira 
 - [**Gestor B2B (TELCO, 2013–2014)**](https://github.com/SalomonOctavio/gestor-b2b) — Autogestión empresa: compra/asignación de bolsas, SLAs y trazabilidad; integración CRM/BSCS/OSB/PCRF.
 - [**Reportes en Línea (QlikView, 2013–2014)**](https://github.com/SalomonOctavio/reportes-en-linea-qlikview) — Dashboards en línea (Marketing/Comercial/Operaciones) con QVS/AccessPoint, Publisher y QVD/QVW.
 - [**Portal de Ofertas de Datos (WebPortal/ODP)**](https://github.com/SalomonOctavio/webportal-odp) — Autoservicio para consumo/saldo y suscripción de bolsas; integración OSB ↔ BSCS/ALU/PCRF.
+- [**Separación Q-Chat (TELCO, 2014)**](https://github.com/SalomonOctavio/separacion-qchat) — HPPTT de “core” a opcional: reglas por plan/equipo, masivo on/off y normalización; integración CRM/BSCS/OTA/HLR.
