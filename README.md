@@ -18,3 +18,9 @@ Cada repositorio corresponde a un caso real adaptado para portafolio profesional
 - [**Tráfico Intra-Grupo / al RUT (TELCO, 2014)**](https://github.com/SalomonOctavio/Trafico-intragrupo) — Llamadas $0 entre líneas del mismo RUT; sin consumo de bolsa; factura con costo 0; reportería y validadores de trazabilidad.
 - [**Equipos Reacondicionados — Solución E2E (TELCO, 2014)**](https://github.com/SalomonOctavio/equipos-reacondicionados-solucion-e2e) — Modelo sistémico de equipos reacondicionados; reglas comerciales, clasificación y actualización RA/BSCS → MAC/eBS → boleta.
 - [**OMEGA / Servicio PRIP (TELCO, 2013)**](https://github.com/SalomonOctavio/omega-prip-uat-2013) — Estrategia UAT y validación E2E del servicio PRIP (Omega): activación digital, instalación, provisión, llamadas PTT (WiFi/roaming), manejo de defectos y criterios de Go/No-Go.
+
+## Sitio web
+
+El portafolio visual está en [`index.html`](index.html), con estilos en [`styles.css`](styles.css). Una vez activado GitHub Pages con **GitHub Actions** como fuente, estará disponible en https://salomonoctavio.github.io/portafolio-profesional/.
+
+PSPO Body of Knowledge figura como proyecto en desarrollo. Su repositorio es privado y no se enlaza públicamente.
