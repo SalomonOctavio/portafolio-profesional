@@ -21,6 +21,6 @@ Cada repositorio corresponde a un caso real adaptado para portafolio profesional
 
 ## Sitio web
 
-El portafolio visual está en [`index.html`](index.html), con estilos en [`styles.css`](styles.css). Una vez activado GitHub Pages con **GitHub Actions** como fuente, estará disponible en https://salomonoctavio.github.io/portafolio-profesional/.
+El portafolio visual está en [`index.html`](index.html), con estilos en [`styles.css`](styles.css). Una vez activado GitHub Pages con **Deploy from a branch**, rama **main** y carpeta **/(root)**, estará disponible en https://salomonoctavio.github.io/portafolio-profesional/.
 
 PSPO Body of Knowledge figura como proyecto en desarrollo. Su repositorio es privado y no se enlaza públicamente.
